@@ -1,0 +1,10 @@
+.thumb {
+  width: 163px;
+  max-height: 93px;
+}
+
+.description {
+  font: 12px;
+  font-weight: bold;
+  overflow: hidden;
+}
